@@ -1,0 +1,19 @@
+data/*
+!data/*.py
+!data/*.pkl
+!data/*.obj
+!data/class_name_to_label
+!data/all_captions
+results/*
+env
+objects
+models/state_dicts
+tmp
+scratch*
+*.png
+iNat20*
+torch_replay_utils/*class_info.pkl
+
+# Byte-compiled / optimized / DLL files
+__pycache__
+*.py[cod]

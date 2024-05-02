@@ -1,0 +1,15 @@
+caser:
+  SV_ratio: ???
+  balanced: False
+  no_buff: False
+  n_cand: ???
+  swil: False
+  pc: ???
+  knn_SV_K: 20
+  chunked: ???
+  feat_chunks: [220,220]
+  query_chunks: [220,220]
+  log_stats: False
+  cand_set_type: U
+  l2_thresh: null
+  SV_type: KNN
